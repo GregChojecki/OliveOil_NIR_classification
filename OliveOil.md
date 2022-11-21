@@ -66,7 +66,7 @@ oil2 %>% pivot_longer(cols=-c(1,2)) %>% mutate(name=as.numeric(name)) %>%
 
 <div class="figure" style="text-align: center">
 
-<img src="OliveOil_files/figure-gfm/Fig1-1-1.png" alt="Fig. 1-1 Data as received" width="50%" />
+<img src="Fig1-1-1.png" alt="Fig. 1-1 Data as received" width="50%" />
 <p class="caption">
 Fig. 1-1 Data as received
 </p>
