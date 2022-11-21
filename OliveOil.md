@@ -6,7 +6,7 @@ Patternverse
 ### Data upload
 
 Let’s start with data download. Unfortunately, we have to download a
-zipped folder and then only extract two files (a readme.txt and
+zipped folder and then only extract two files (a `readme.txt` and
 `FTIR_Spectra_olive_oils.csv`)
 
 ### Data preparation
