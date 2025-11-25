@@ -3,14 +3,14 @@ README
 Patternverse
 2025-11-25
 
-# Olive Oil Authentication Using NIR / FTIR Spectroscopy  
+# Olive Oil Authentication Using FTIR Spectroscopy  
 **Chemometric Classification in R**
 
 This project applies chemometric and machine learning techniques to classify olive oil samples based on their infrared spectra. It demonstrates how spectroscopy, data preprocessing, and supervised models can be combined to build an authenticity classifier.
 
 ---
 
-## 📌 Project Goals
+## Project Goals
 
 - Use mid-infrared (FTIR) spectral data to distinguish between different olive oil categories.
 - Apply chemometric preprocessing (normalization, smoothing, derivatives, PCA).
@@ -20,7 +20,7 @@ This project applies chemometric and machine learning techniques to classify oli
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 This project uses the dataset **FTIR_Spectra_olive_oils.csv**, containing **120 mid-infrared spectra** collected from **60 authenticated extra virgin olive oils**.  
 The samples were supplied to the **Institute of Food Research (UK)** by the **International Olive Oil Council**.
@@ -77,7 +77,7 @@ Cross-validation is used where applicable.
 
 ---
 
-## 📈 Example Visualizations
+## Example Visualizations
 
 The project includes visual outputs such as:
 
@@ -89,7 +89,7 @@ The project includes visual outputs such as:
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **R**  
 - tidyverse  
@@ -101,6 +101,7 @@ The project includes visual outputs such as:
 
 ---
 
-## 🚀 How to Run the Code
+## How to Run the Code
 
 ### **Option A — R Script**
+
